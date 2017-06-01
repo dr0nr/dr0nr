@@ -1,0 +1,6 @@
+[submodule "rec"]
+	path = rec
+	url = https://github.com/dr0nr/rec.git
+[submodule "brn"]
+	path = brn
+	url = https://github.com/dr0nr/brn.git
