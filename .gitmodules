@@ -10,7 +10,3 @@
 	path = libcom
 	url = https://github.com/dr0nr/libcom.git
 	branch = arduino
-[submodule "libdr0nr"]
-	path = libdr0nr
-	url = https://github.com/dr0nr/libdr0nr.git
-	branch = arduino
